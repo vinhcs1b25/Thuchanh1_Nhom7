@@ -27,10 +27,11 @@ Bài thực hành tập trung vào việc áp dụng các công cụ Trí tuệ 
 ## Cam kết đạo đức
 Nội dung trong bài thực hành này được hỗ trợ bởi AI nhưng đã qua quá trình kiểm chứng và chỉnh sửa của cá nhân. Tôi cam kết ghi rõ nguồn trích dẫn và không vi phạm các quy định về đạo đức số theo khung năng lực **DigComp 2.2**.
 ---
-![Anh AI](https://github.com/vinhcs1b25/TranVinh_B2511688_TH1/blob/main/img/Infographic.png?raw=true)
+![Anh AI](https://github.com/vinhcs1b25/Thuchanh1_Nhom7/blob/main/NV%203.1%20Infographic.png?raw=true))
 **Nguồn: Tạo bởi Canva AI**
 ---
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
