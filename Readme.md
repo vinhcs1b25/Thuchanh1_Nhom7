@@ -28,7 +28,9 @@ Bài thực hành tập trung vào việc áp dụng các công cụ Trí tuệ 
 Nội dung trong bài thực hành này được hỗ trợ bởi AI nhưng đã qua quá trình kiểm chứng và chỉnh sửa của cá nhân. Tôi cam kết ghi rõ nguồn trích dẫn và không vi phạm các quy định về đạo đức số theo khung năng lực **DigComp 2.2**.
 ---
 ![Anh AI](https://github.com/vinhcs1b25/Thuchanh1_Nhom7/blob/main/NV%203.1%20Infographic.png?raw=true)
+
 **Nguồn: Tạo bởi Canva AI**
 ---
 This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 
